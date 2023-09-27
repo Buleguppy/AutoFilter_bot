@@ -10,7 +10,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: ɴᴀᴍɪ V.0.1"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/planet_movies_grp>♻ 𝗥𝗘𝗣𝗢 𝗟𝗜𝗡𝗞 ♻</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/series_planet_nami_updates>♻ 𝗥𝗘𝗣𝗢 𝗟𝗜𝗡𝗞 ♻</a>
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/LiZarD_amc>𝗟𝗶𝗭𝗮𝗿𝗗</a>"""
